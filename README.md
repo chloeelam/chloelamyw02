@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello there! 👋 I am Chloe! 🤠
+Hello! 👋 I am Chloe! 🤠
 </h1>
 
 <p align="center">
