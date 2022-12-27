@@ -5,3 +5,6 @@ Hello there! 👋 I am Chloe!
 <p align="center">
         Currently a Business Analytics undergraduate at Singapore University of Social Sciences.
 </p>
+
+<p align="centre">
+    <a href="#"><image src="https://github-readme-stats.vercel.app/api?username=chloelamyw02&show_icons=true&theme=ayu-miraddge>
