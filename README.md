@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello there! 👋 I am Chloe!
+Hello there! 👋 I am Chloe! 🤠
 </h1>
 
 <p align="center">
@@ -8,3 +8,4 @@ Hello there! 👋 I am Chloe!
 
 <p align="centre">
     <a href="#"><image src="https://github-readme-stats.vercel.app/api?username=chloelamyw02&show_icons=true&theme=ayu-miraddge>
+</p>
