@@ -3,7 +3,7 @@ Hello there! 👋 I am Chloe! 🤠
 </h1>
 
 <p align="center">
-        Currently a Business Analytics undergraduate at Singapore University of Social Sciences.
+        I am currently a Business Analytics undergraduate at Singapore University of Social Sciences.
 </p>
 
 <p align="centre">
