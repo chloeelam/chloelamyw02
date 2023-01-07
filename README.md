@@ -7,5 +7,5 @@ Hello! 👋 I am Chloe! 🤠
 </p>
 
 <p align="centre">
-    <a href="#"><image src="https://github-readme-stats.vercel.app/api?username=chloeelam&show_icons=true&theme=ayu-miraddge">
+    <a href="#"><image src="https://github-readme-stats.vercel.app/api?username=chloelyw&show_icons=true&theme=ayu-miraddge">
 </p>
